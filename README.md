@@ -53,7 +53,7 @@ Cela compile tous les microservices.
 
 Lancez chaque service dans un terminal séparé dans l'ordre suivant ou executer la commande :
 
-#### Terminal - lancer tous les services depuis le même terminal :
+#### Lancer tous les services depuis le même terminal :
 
 ```powershell
 .\start-all-service.bat
